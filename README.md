@@ -21,3 +21,17 @@ Import Libraries
 - NumPy
 - Seaborn
 - Scikit-learn
+
+  ## Results and Insights
+
+- Identified key trends and patterns in the dataset  
+- Analyzed relationships between variables using correlation  
+- Found strong/weak correlations between important features  
+- Statistical measures (mean, median, standard deviation) provided data distribution insights  
+- Insights can support better decision-making and understanding of data behavior  
+
+ ## Visualization
+ - Heatmap
+
+ ## Author Name
+ - Himanshi Tiwari
